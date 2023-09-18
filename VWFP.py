@@ -1,3 +1,4 @@
+#v1.0.0
 # Program to extract ERA5 reanalysis data into EPW format
 # DO NOT USE FOR A LEAP YEAR!
 # Developed by: Mohsen Moradi, Amir A. Aliabadi, R. Maeve Mc Leod
